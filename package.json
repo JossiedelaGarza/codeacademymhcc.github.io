@@ -1,0 +1,23 @@
+{
+  "name": "codeacademymhcc.github.io",
+  "version": "1.0.0",
+  "description": "Class website for MHCC Code Academy 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeAcademyMHCC/codeacademymhcc.github.io.git"
+  },
+  "author": "George Mandis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeAcademyMHCC/codeacademymhcc.github.io/issues"
+  },
+  "homepage": "https://github.com/CodeAcademyMHCC/codeacademymhcc.github.io#readme",
+  "dependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
