@@ -12,6 +12,7 @@ module.exports = {
         { text: 'Slack', link: 'https://mhcccodeacademy2018.slack.com/' },        
       ],
       sidebar: [
+        ['current','This Week'],
         {
           title: 'Syllabus',
           collapsable: true,
@@ -29,10 +30,12 @@ module.exports = {
           ]
         },
         {
-            title: 'Services & Resources',
+            title: 'Reference Materials',
             collapsable: true,
             children: [
-              ['syllabus/week1', "Week 1"],
+              ['reference/html', "HTML"],
+              ['reference/css', "CSS"],
+              ['reference/javascript', "JavaScript"],              
               // ['#', "Week 2"],
               // ['#', "Week 3"],
               // ['#', "Week 4"],
