@@ -4,7 +4,7 @@ home: true
 heroText: Code Academy 2018
 heroImage: /images/mhcc-logo.jpg
 description: An introduction to  web development
-actionText: This Week →
+actionText: Current Agenda →
 actionLink: /current.html
 # features:
 # - title: Simplicity First

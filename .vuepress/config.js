@@ -2,19 +2,20 @@
 module.exports = {
   title: "MHCC Code Academy 2018",
   serviceWorker: true,  
-  themeConfig: {  
-    repo: 'CodeAcademyMHCC/codeacademymhcc.github.io',
-    editLinks: true,      
+  themeConfig: {          
+    editLinks: false,      
     nav: [
         
         // { text: 'Resources', link: '/resources/' },
         { text: 'Treehouse', link: 'http://teamtreehouse.com/' },
         { text: 'Slack', link: 'https://mhcccodeacademy2018.slack.com/' },        
+        { text: 'GitHub', link: 'https://github.com' },        
       ],
       sidebar: [
-        ['current','This Week'],
+        ['current','★ This Week'],                
+        
         {
-          title: 'Syllabus',
+          title: 'Assignments',
           collapsable: true,
           children: [
             ['syllabus/week1', "Week 1"],
@@ -46,7 +47,9 @@ module.exports = {
               // ['#', "Week 9"],
               // ['#', "Week 10"],
             ]
-          },        
+          }, 
+          ["resources", "Resources"],
+          
       ]
     }
 }
