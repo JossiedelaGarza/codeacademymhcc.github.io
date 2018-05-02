@@ -9,7 +9,7 @@ module.exports = {
         // { text: 'Resources', link: '/resources/' },
         { text: 'Treehouse', link: 'http://teamtreehouse.com/' },
         { text: 'Slack', link: 'https://mhcccodeacademy2018.slack.com/' },        
-        { text: 'GitHub', link: 'https://github.com' },        
+        { text: 'GitHub', link: 'https://github.com/CodeAcademyMHCC/codeacademymhcc.github.io' },        
       ],
       sidebar: [
         ['current','★ This Week'],                
