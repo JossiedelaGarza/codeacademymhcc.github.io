@@ -10,7 +10,7 @@ Tech meetups, talks and other events are good places to learn about specific tec
 - [Technology Association of Oregon](http://www.techoregon.org/events) — A nonprofit focused on connecting tech-minded people in Oregon.
 - [New Relic Future Talks](https://www.meetup.com/New-Relic-FutureTalks-PDX/) — Tech-talk events sponsored by New Relic.
 - [Mentorship Saturdays](https://www.meetup.com/Mentorship-Saturdays/) — Work with mentors on your specific problems or projects.
-- [Free Geek Metups](http://calagator.org/venues/202389965) — Free Geek is a nonprofit, computer building center inSE Portland. They also host lots of classes and events.
+- [Free Geek Meetups](http://calagator.org/venues/202389965) — Free Geek is a nonprofit, computer building center inSE Portland. They also host lots of classes and events.
 
 ## Tools
 
