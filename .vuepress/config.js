@@ -6,9 +6,10 @@ module.exports = {
     editLinks: false,      
     nav: [
         
-        // { text: 'Resources', link: '/resources/' },
+        // { text: 'Resources', link: '/resources/' },        
         { text: 'Treehouse', link: 'http://teamtreehouse.com/' },
         { text: 'Slack', link: 'https://mhcccodeacademy2018.slack.com/' },        
+        { text: 'Logs', link: '/learning-logs/' },
         { text: 'GitHub', link: 'https://github.com/CodeAcademyMHCC/codeacademymhcc.github.io' },        
       ],
       sidebar: [
