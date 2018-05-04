@@ -12,6 +12,11 @@ Tech meetups, talks and other events are good places to learn about specific tec
 - [Mentorship Saturdays](https://www.meetup.com/Mentorship-Saturdays/) — Work with mentors on your specific problems or projects.
 - [Free Geek Meetups](http://calagator.org/venues/202389965) — Free Geek is a nonprofit, computer building center inSE Portland. They also host lots of classes and events.
 
+## Online Resources
+
+- [Lynda](http://lynda.com/) — Online courses for a variety of topics, including  [web development](https://www.lynda.com/Web-Development-training-tutorials/1471-0.html) and [design](https://www.lynda.com/Web-Design-training-tutorials/1376-0.html).
+- [freeCodeCamp](http://freecodecamp.org/) — An online learning system, notdissimilar to Treehouse. A good complimentary resource to explore and one we'll draw from for assignments.
+
 ## Tools
 
 - [Bootcamps.in](http://www.bootcamps.in/) — This website compares programming bootcamps across the country. A good resource if you’re not geographically bound.
