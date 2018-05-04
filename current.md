@@ -1,23 +1,17 @@
-*May 1-3, 2018*
-
-## Treehouse Tracks
-
-These are the first two Treehouse tracks we'll be focusing on:
-
-- [Digital Literacy](https://teamtreehouse.com/tracks/digital-literacy) — Aim to be done by Thursday, **May 3rd, 2018**
-- [Learn HTML](https://teamtreehouse.com/tracks/learn-html-2) — Aim to be done by Thursday, **May 10th, 2018**
-
-Due dates are goals at this point, but not strict. Some of this will be dictated by how fast we're able to move as a class.
+*May 8 & 10th, 2018*
 
 
-## Learning Git, GitHub and the Console 
+## Continuing Tracks
 
-Once every student is somewhere in the **Learn HTML** track I'm going to ask everyone to temporarily shift gears so we can focus on learning console foundations, git and GitHub as a class. This might feel like an abrupt shift, but we'll be using git and GitHub a lot over the rest of the course. Getting familiar with these things early will help us down the road.
+This week we'll be continuing work on tracks from last week: 
 
-- [Console Foundations](https://teamtreehouse.com/library/console-foundations)
-- [Introduction to Git](https://teamtreehouse.com/library/introduction-to-git)
-- [GitHub Basics](https://teamtreehouse.com/library/github-basics)
-- [GitHub in Workspaces](https://teamtreehouse.com/library/github-in-workspaces)
-- [Hosting a Website with GitHub Pages](https://teamtreehouse.com/library/hosting-a-website-with-github-pages)
+- [Digital Literacy](https://teamtreehouse.com/tracks/digital-literacy) (if not completed)
+- [Learn HTML](https://teamtreehouse.com/tracks/learn-html-2) 
 
+## Git, GitHub and the Console 
 
+On Tuesday (May 8th) we will pause wherever you are within the previous tracks so we can shift focus on a new track:
+
+- [Learning Git & GitHub](https://teamtreehouse.com/tracks/learning-git-github)
+
+I want to make sure we start learning console foundations, git and GitHub together as a class, as a lot of questons can come up at this point. This might feel like an abrupt shift, but we'll be using git and GitHub a lot over the rest of the course. Getting familiar with these things early will help us down the road as we steer back into tracks more focused on HTML, CSS & JavaScript.

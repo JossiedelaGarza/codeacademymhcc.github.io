@@ -20,6 +20,7 @@ module.exports = {
           collapsable: true,
           children: [
             ['syllabus/week1', "Week 1"],
+            ['syllabus/week2', "Week 2"],
             // ['#', "Week 2"],
             // ['#', "Week 3"],
             // ['#', "Week 4"],
