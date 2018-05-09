@@ -11,6 +11,27 @@ Tech meetups, talks and other events are good places to learn about specific tec
 - [New Relic Future Talks](https://www.meetup.com/New-Relic-FutureTalks-PDX/) — Tech-talk events sponsored by New Relic.
 - [Mentorship Saturdays](https://www.meetup.com/Mentorship-Saturdays/) — Work with mentors on your specific problems or projects.
 - [Free Geek Meetups](http://calagator.org/venues/202389965) — Free Geek is a nonprofit, computer building center inSE Portland. They also host lots of classes and events.
+- [NewTechPDX](http://newtechpdx.com/)
+- [Accelerate Biotech & Digital Health PDX](https://www.meetup.com/Accelerate-Bio-Tech-PDX/)
+- [Nike Tech Talks](https://niketechtalksjan2018.splashthat.com/)
+- [PDX WIT](http://www.pdxwit.org/upcoming-events/)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [AMA - PDX](http://www.ama-pdx.org/)
+
+## Portland Job Boards
+
+- [Silicon Florist](https://siliconflorist.com/category/jobs/)
+- [Angel.co](https://angel.co/jobs)
+- [PDX WIT](http://www.pdxwit.org/jobs/)
+- [Mac's List](https://jobs.macslist.org/search)
+- [Technology Association of Oregon (TAO)](http://www.techoregon.org/oregon-tech-jobs)
+- [PDX Pipeline](https://www.pdxpipeline.com/jobs/)
+- [Dice Jobs](https://www.dice.com/jobs?q=&l=Portland%2C+OR&searchid=8626551160083&stst=)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/search/?location=Portland%2C%20Oregon%20Area&locationId=us%3A79)
+ 
+ ###  Industry Specific Recruiting Companies:
+- [FLUX](http://www.workwithflux.com/) -- Architecture, Engineering, IT, Business Professionals
+- [Robert Half](http://www.roberthalf.com/) -- IT Recruiting
 
 ## Online Resources
 
