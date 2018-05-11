@@ -19,4 +19,4 @@ I want to make sure we start learning console foundations, git and GitHub togeth
 
 ## GitHub Study Notes Project
 
-Starting May 10th I would like everyone to start keeping a study notes repository. You can find more at **Class Projects > [GitHub Study Notes](/lessons/github-study-notes.html)**
+Starting May 10th I would like everyone to start keeping a study notes repository. You can find more at **Class Projects > [GitHub Study Notes](/projects/github-study-notes.html)**
