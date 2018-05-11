@@ -33,6 +33,14 @@ module.exports = {
           ]
         },
         {
+          title: 'Class Projects',
+          collapsable: true,
+          children: [
+            ['projects/github-study-notes',  'GitHub Study Notes']
+          ]
+        },
+        
+        {
             title: 'Reference Materials',
             collapsable: true,
             children: [
