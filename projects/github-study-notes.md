@@ -41,9 +41,9 @@ We will use this copied text in the upcoming steps.
 
 ## Creating our GitHub repository
 
-Go to [GitHub](https://github.com) and create a [new repository](https://github.com/new) for our study notes. You should be able to find this option in a submenu in the the upper-right-hand corner of the main navigation. On the new repositroy screen do the following:
+Go to [GitHub](https://github.com) and create a [new repository](https://github.com/new) for our study notes. You should be able to find this option in a submenu in the the upper-right-hand corner of the main navigation. On the new repository screen do the following:
 
-- Name your repositroy `study-notes` (or something else if you'd prefer)
+- Name your repository `study-notes` (or something else if you'd prefer)
 - Check the box next to where it says *Initialize this repository with a README*
 - Click the button that says *Create repository*
 
@@ -61,7 +61,7 @@ What we've now done is created a unique identifier (our key) in our Treehouse wo
 
 ## Cloning our GitHub repository into our Treehouse workspace
 
-Now we can clone our new GitHub project into our Treehouse workspace. From the primary **Code** tab for our GitHub project, click the *Clone or download* button to reveal a URL and copy it. It should look something like `git@github.com:<yourusername>/study-notes.git`
+Now we can clone our new GitHub project into our Treehouse workspace. From the primary **Code** tab for our GitHub project, click the *Clone or download* button to reveal a URL and copy it. Make sure you are using the SSH URL and not HTTPS! It should look something like `git@github.com:<yourusername>/study-notes.git`
 
 Open our Treehouse workspace window and type the following into the console:
 
@@ -88,14 +88,14 @@ As we continue through various Treehouse tracks and discuss things in class we c
 
 Here are some ideas for how you could use these notes:
 
-- Write down defintions of terms you want to remember or found useful
+- Write down definitions of terms you want to remember or found useful
 - Keep a list of common console commands, HTML tags or CSS snippets to copy-and-paste
 - List links to specific Treehouse lessons or outside resources you find yourself referencing
 - Embed videos from other sources you may have found while trying to explore a concept further on your own
 - Provide specific examples or certain concepts to refer to or "play around" with later
 - You can setup a individual files for different languages/areas of focus: HTML, CSS, JavaScript, etc.
 - You could keep your notes in [Markdown](https://teamtreehouse.com/library/code), or create HTML pages that link to one another and turn your notes into a fully functional webpage via [GitHub Pages](https://teamtreehouse.com/library/hosting-a-website-with-github-pages)
-- Keep a tally of cursewords & grievances as you pull your hair out trying to get through a particularly difficult segment
+- Keep a tally of curse words & grievances as you pull your hair out trying to get through a particularly difficult segment
 - Embed a picture of a trophy or [LOLCat](http://www.lolcats.com/) on a webpage as reward to yourself every time you finish a task
 
 
