@@ -37,6 +37,7 @@ Tech meetups, talks and other events are good places to learn about specific tec
 
 - [Lynda](http://lynda.com/) — Online courses for a variety of topics, including  [web development](https://www.lynda.com/Web-Development-training-tutorials/1471-0.html) and [design](https://www.lynda.com/Web-Design-training-tutorials/1376-0.html).
 - [freeCodeCamp](http://freecodecamp.org/) — An online learning system, notdissimilar to Treehouse. A good complimentary resource to explore and one we'll draw from for assignments.
+- [Lumen Learning](https://lumenlearning.com/)
 
 ## Tools
 
