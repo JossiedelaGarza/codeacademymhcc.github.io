@@ -1,7 +1,7 @@
 *May 15th & 17th, 2018*
 
 
-## Continuing Console, Git & GitHub WOrk
+## Continuing Console, Git & GitHub Work
 
 This week we'll continuing working on the console, Git & GitHub track:
 
