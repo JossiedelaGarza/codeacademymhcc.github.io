@@ -1,5 +1,5 @@
+# Week 2
 *May 15th & 17th, 2018*
-
 
 ## Continuing Console, Git & GitHub WOrk
 
