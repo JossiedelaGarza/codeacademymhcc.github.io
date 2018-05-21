@@ -22,7 +22,7 @@ module.exports = {
             ['syllabus/week1', "Week 1"],
             ['syllabus/week2', "Week 2"],
             ['syllabus/week3', "Week 3"],
-            // ['syllabus/week4', "Week 4"],
+            ['syllabus/week4', "Week 4"],
             // ['syllabus/week5', "Week 5"],
             // ['syllabus/week6', "Week 6"],
             // ['syllabus/week7', "Week 7"],
